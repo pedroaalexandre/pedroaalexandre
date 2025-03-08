@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" heigth="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW50eDl6Y2tuMGE5c2FnMWVqdjk3ZGdobmlxbGxtZ2drNmsya20yOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fLVa4H1RvpYwjt9fnW/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW50eDl6Y2tuMGE5c2FnMWVqdjk3ZGdobmlxbGxtZ2drNmsya20yOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fLVa4H1RvpYwjt9fnW/giphy.gif" height="150" alt="guitar"/>
 
 ###
 
