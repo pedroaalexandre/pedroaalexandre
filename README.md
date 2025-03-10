@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estou nessa jornada desde 2024<br>📚 Atualemente estou aprendendo sobre Java ☕ e SpringBoot 🍃<br>🎯 Objetivos: Iniciar minha carrera profissional na programação e trabalhar o exterior 🧭<br>🤔 Curiosidades: Gosto de tocar violão 🎸 e jogos 🎮</p>
+<p align="left">✨ Estou nessa jornada desde 2024<br>📚 Atualmente estou aprendendo sobre Java ☕ e SpringBoot 🍃<br>🎯 Objetivos: Iniciar minha carreira profissional na programação e trabalhar no exterior 🧭<br>🤔 Curiosidades: Gosto de tocar violão 🎸 e jogos 🎮</p>
 
 ###
 
